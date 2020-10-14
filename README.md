@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+
+Hi! My name is Shih Ping Lin!
+Nice to meet GitHub.
